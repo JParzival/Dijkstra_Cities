@@ -1,0 +1,22 @@
+{  
+   "salamanca":
+   {  
+      "valladolid":124.9906,
+      "madrid":214.0966
+   },
+   "valladolid":
+   {  
+      "madrid":214.0966,
+      "zaragoza":487.6031
+   },
+   "madrid":
+   {  
+      "zaragoza":313.89779999999996,
+      "valencia":358.3033
+   },
+   "zaragoza":
+   {  
+      "valencia":312.08090000000004
+   }
+}
+
